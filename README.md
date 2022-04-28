@@ -18,28 +18,6 @@ stop
 
 ## Program:
 
-using System;
-namespace activity
-{
-    class program
-    {
-            static void Main(string[] args)
-            {
-                int num1, num2, num3;
-                Console.WriteLine("Enter Three Numbers: ");
-                num1 = Convert.ToInt32(Console.ReadLine());
-                num2 = Convert.ToInt32(Console.ReadLine());
-                num3 = Convert.ToInt32(Console.ReadLine());
-            if ((num1 > num2) && (num1 > num3))
-                Console.WriteLine(num1 + " is Greater");
-            else if ((num2 > num1) && (num2 > num3))
-                Console.WriteLine(num2 + " is Greater");
-            else
-                Console.WriteLine(num3 + " is Greater");
-        }
-    }
-}
-
 ## Output:
 
 ## Result:
