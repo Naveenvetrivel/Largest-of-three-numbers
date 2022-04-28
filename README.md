@@ -26,7 +26,7 @@ namespace fawzi
         static void Main(string[] args)
         {
             int num1, num2, num3;
-            Console.WriteLine("Enter The Numbers: );
+            Console.WriteLine("Enter Three Numbers: );
             num1 = Convert.ToInt32(Console.ReadLine());
             num2 = Convert.ToInt32(Console.ReadLine());
             num3 = Convert.ToInt32(Console.ReadLine());
