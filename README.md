@@ -19,7 +19,7 @@ stop
 ## Program:
 ```
 using System;
-namespace fawzi
+namespace Naveen
 {
     class program
     {
